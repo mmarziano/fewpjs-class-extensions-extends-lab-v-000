@@ -10,4 +10,6 @@ class Polygon {
     let sides = array.length;
     return sides;
   }
+  
+  
 }
