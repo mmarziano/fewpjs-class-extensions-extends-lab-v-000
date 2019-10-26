@@ -11,5 +11,11 @@ class Polygon {
     return sides;
   }
   
-  
+  get perimeter() {
+    
+  }
+}
+
+class Triangle {
+  extends Polygon
 }
