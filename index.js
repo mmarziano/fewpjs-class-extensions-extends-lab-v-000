@@ -7,7 +7,7 @@ class Polygon {
   }
   
   get countSides(array) {
-    let sides = array.length
-    return sides
+    let sides = array.length;
+    return sides;
   }
 }
